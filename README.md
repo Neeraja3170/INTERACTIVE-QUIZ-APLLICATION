@@ -26,3 +26,4 @@ To install and set up the application, users need to clone the repository, navig
 
 The Interactive Quiz Application aims to make learning and testing knowledge fun and engaging. With an intuitive UI, gamification elements, and real-time feedback, users can enjoy a seamless and interactive quiz experience while improving their knowledge.
 
+OUTPUT:![Image](https://github.com/user-attachments/assets/1e7456c3-74bc-4015-87dd-35e59bbdef0c)
